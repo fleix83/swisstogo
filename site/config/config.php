@@ -24,20 +24,20 @@ c::set('home','swisstogo');
 c::set('languages', array(
   array(
     'code'    => 'en',
-    'name'    => 'English',
+    'name'    => 'En',
     'default' => true,
     'locale'  => 'en_US',
-    'url'     => '/en',
+    'url'     => '/',
   ),
   array(
     'code'    => 'de',
-    'name'    => 'Deutsch',
+    'name'    => 'De',
     'locale'  => 'de_DE',
     'url'     => '/de',
   ),
   array(
     'code'    => 'ru',
-    'name'    => 'Russian',
+    'name'    => 'Ru',
     'locale'  => 'ru_RU',
     'url'     => '/ru',
   ),

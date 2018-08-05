@@ -1,0 +1,128 @@
+Class: list
+
+----
+
+Image: korpus_voll_vonoben_farbsepariert.jpg
+
+----
+
+Imagesize: col-lg-12
+
+----
+
+Justifyimage: justify-content-center
+
+----
+
+Titel: The following content is included in the Swiss To Go
+
+----
+
+Text: The following content is included in the Swiss To Go:
+
+----
+
+Justify: justify-content-center
+
+----
+
+Tools: 
+
+-
+  title: Toothpick
+  text: ""
+  color: black
+  tool: Toothpick
+-
+  title: >
+    High quality cutlery (2 forks, 1 large
+    spoon, 1 small spoon)
+  text: ""
+  color: black
+  tool: >
+    High quality cutlery (2 forks, 1 large
+    spoon, 1 small spoon)
+-
+  title: Pocket knife Victorinox
+  text: ""
+  color: black
+  tool: Pocket knife Victorinox
+-
+  tool: Oil/vinegar dressing in a bottle
+  text: ""
+  color: ""
+-
+  tool: Matches
+  text: ""
+  color: ""
+-
+  tool: Towel tabs as cleaning cloths
+  text: ""
+  color: ""
+-
+  tool: Salt
+  text: ""
+  color: ""
+-
+  tool: >
+    Tea light made of sustainable rapeseed
+    wax
+  text: ""
+  color: ""
+-
+  tool: Pepper (3 years durable)
+  text: ""
+  color: ""
+
+----
+
+Title: Content
+
+----
+
+Text-links: 
+
+####TOOTHPICK
+####HIGH QUALITY CUTLERY
+
+2 forks, 1 large spoon, 1 small spoon
+####POCKET KNIFE VICTORINOX
+####OIL/VINEGAR DRESSING IN A BOTTLE
+####MATCHES
+
+----
+
+Content-links: 
+
+- 
+  titel_links: TOOTHPICK
+  text_links: ""
+- 
+  titel_links: HIGH QUALITY CUTLERY
+  text_links: 2 forks, 1 large spoon, 1 small spoon
+- 
+  titel_links: POCKET KNIFE VICTORINOX
+  text_links: ""
+- 
+  titel_links: OIL/VINEGAR DRESSING IN A BOTTLE
+  text_links: ""
+- 
+  titel_links: MATCHES
+  text_links: ""
+
+----
+
+Content-rechts: 
+
+- 
+  titel_rechts: TOWEL TABS AS CLEANING CLOTHS
+  text_rechts: ""
+- 
+  titel_rechts: TEA LIGHT
+  text_rechts: Made of sustainable rapsseed wax
+- 
+  titel_rechts: PEPPER
+  text_rechts: Flavor last 3 years
+- 
+  titel_rechts: SALT
+  text_rechts: ""

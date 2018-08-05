@@ -1,0 +1,25 @@
+Image: talebene.jpg
+
+----
+
+Imagesize: col-lg-12
+
+----
+
+Justifyimage: justify-content-center
+
+----
+
+Titel: 
+
+----
+
+Text: 
+
+----
+
+Justify: 
+
+----
+
+Title: Abschlussbild

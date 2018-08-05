@@ -1,0 +1,29 @@
+Image: korpus_voll_herausnehmen-min.jpg
+
+----
+
+Imagesize: col-lg-8
+
+----
+
+Justifyimage: justify-content-start
+
+----
+
+Titel: 
+
+----
+
+Text: The accessories can easily be removed from the compartments.
+
+----
+
+Justify: justify-content-end
+
+----
+
+Title: Herausnehmen
+
+----
+
+Class: margin-big

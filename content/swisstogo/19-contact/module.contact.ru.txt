@@ -1,0 +1,13 @@
+Background: lightgrey
+
+----
+
+Formtitle: Want to offer the Swiss To Go in your shop?
+
+----
+
+Title: Contact
+
+----
+
+Formsubtitle: Request your reseller account now

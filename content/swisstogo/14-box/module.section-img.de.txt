@@ -1,0 +1,29 @@
+Image: swiss-to-go_box.jpg
+
+----
+
+Imagesize: col-lg-4
+
+----
+
+Titel: 
+
+----
+
+Text: Swiss To Go comes in a noble gift box. Give your loved ones  great joy with lasting memory value.
+
+----
+
+Title: Box
+
+----
+
+Class: margin-big
+
+----
+
+Justifyimage: justify-content-center
+
+----
+
+Justify: justify-content-center
