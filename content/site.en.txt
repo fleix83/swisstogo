@@ -1,0 +1,52 @@
+Title: Swiss To Go - set out for picnic | Wood and Luxury
+
+----
+
+Author: Stefan Senn
+
+----
+
+Description: Swiss To Go is the practical and stylish picnic set for one to two people for a tasteful meal on the go.
+
+----
+
+Copyright: © Wood & Luxury 2018
+
+----
+
+Footer-1: 
+
+----
+
+Footer-2: 
+
+###Wood & Luxury
+St.Alban-Vorstadt 15
+4052 | Basel
+
+welcome@woodandluxury.swiss
+(link: http://www.woodandluxury.swiss text: www.woodandluxury.swiss)
+
+----
+
+Footer-3: 
+
+----
+
+Background: wal_logo_transparent_780x364.png
+
+----
+
+Keywords: swisstogo,solid wood,picnic,luxury,swissmade,swiss to go,wood
+
+----
+
+Logo: logo.png
+
+----
+
+Alert: Subscribe to our newsletter
+
+----
+
+Seo: 

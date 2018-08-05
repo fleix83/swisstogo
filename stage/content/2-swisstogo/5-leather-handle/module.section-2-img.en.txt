@@ -1,0 +1,25 @@
+Image-left: korpus_front_geschlossen.png
+
+----
+
+Image-right: korpus_schmal_seitlich.jpg
+
+----
+
+Titel: 
+
+----
+
+Text: An elegant leather handle makes the Swiss To Go easy to carry and gives the case a stylish look, just like our Swiss Tool Case and Swiss Essential.
+
+----
+
+Justify: justify-content-start
+
+----
+
+Title: Leather Handle
+
+----
+
+Class: margin-big

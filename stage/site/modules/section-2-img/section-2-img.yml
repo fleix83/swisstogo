@@ -1,0 +1,28 @@
+title: Section 2 Image module
+pages: false
+files: true
+icon: list
+
+fields:
+  class:
+    label: Class
+    type: text
+  image_left:
+    label: Bild links
+  	type: image
+  image_right:
+    label: Bild rechts
+  	type: image
+  titel:
+    label: Titel
+    type: text
+  text:
+    label: Text
+    type: text
+  justify:
+    label: Ausrichtung Text
+    type: select
+    options:
+      justify-content-start: Links
+      justify-content-center: Mitte
+      justify-content-end: Rechts

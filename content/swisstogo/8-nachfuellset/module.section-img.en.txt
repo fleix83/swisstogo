@@ -1,0 +1,29 @@
+Image: szene_teelicht.jpg
+
+----
+
+Imagesize: col-lg-8
+
+----
+
+Justifyimage: justify-content-center
+
+----
+
+Titel: 
+
+----
+
+Text: A refill set is also available and includes toothpicks, matches, salt and pepper shakers, 3 bottles of dressing, 2 candles and 20 cleaning cloths.
+
+----
+
+Justify: justify-content-center
+
+----
+
+Title: Nachfüllset
+
+----
+
+Class: margin-big

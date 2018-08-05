@@ -1,0 +1,31 @@
+Image: 
+
+----
+
+Imagesize: col-lg-10
+
+----
+
+Justifyimage: justify-content-center
+
+----
+
+Titel: Swiss To Go (ru)
+
+----
+
+Text: 
+
+Установите официальное мобильное приложение ВКонтакте и оставайтесь в курсе новостей Ваших друзей, где бы Вы ни находились.
+
+----
+
+Justify: justify-content-center
+
+----
+
+Title: Hero
+
+----
+
+Class: hero

@@ -1,0 +1,43 @@
+title: Section CTA module
+pages: false
+files: true
+icon: list
+
+fields:
+  class:
+    label: Class
+    type: text
+  image:
+    label: Bild
+    type: image
+    width: 1/3
+  imagesize:
+    label: Bildgrösse
+    type: select
+    width: 1/3
+    options:
+      col-lg-12: Ganze Breite
+      col-lg-10: Gross
+      col-lg-6 col-md-8 col-sm-10 col-xs-6: "1/2"
+      col-lg-4: "1/3"
+  titel:
+    label: Titel
+    type: text
+  text:
+    label: Text
+    type: text
+  cta:
+    label: CtA Button 
+    type: text
+  cta_link:
+    label: CtA Link 
+    type: text
+  background:
+    label: Background
+    type: select
+    options:
+      turkise: Türkis
+      lightgrey: Lightgrey
+      green: Green
+      contactbrand: Wood & Luxury Gold
+      alpine: Alpine

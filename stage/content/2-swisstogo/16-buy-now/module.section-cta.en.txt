@@ -1,0 +1,33 @@
+Image: swiss-to-go_korpus_rueckseite.png
+
+----
+
+Imagesize: col-lg-6 col-md-8 col-sm-10 col-xs-6
+
+----
+
+Titel: Get ready for picnic
+
+----
+
+Text: With your brand new Swiss To Go
+
+----
+
+Cta: Buy now
+
+----
+
+Cta-link: http://woodandluxury.com/shop/en/home/180-swiss-to-go.html
+
+----
+
+Background: 
+
+----
+
+Title: Buy now
+
+----
+
+Class: margin-big
