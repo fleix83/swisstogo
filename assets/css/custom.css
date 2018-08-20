@@ -127,8 +127,8 @@ button a:visited {
 /* BUTTONS OVERRIDES */
 .btn-hero {
   color: #fff;
-  background-color: #33ccff;
-  border-color: #33ccff;
+  background-color: rgba(189, 168, 83, 0.6);
+  border-color: #d4d4d4;
 }
 
 .btn-hero:hover {
@@ -180,13 +180,14 @@ z-index: 10;
 }
 
 .k:before {
-	width: 140px;
+	width: 139px;
 	font-size: 0.8rem;
 	content: "Find us on Kickstarter";
 	position: absolute;
-	top: 43px;
-	right: -30px;
-	transform: rotate(45deg);
+	top: 4px;
+	right: 95px;
+
+
 }
 
 .k:hover {
@@ -200,6 +201,43 @@ z-index: 10;
 	top: 9px;
 	right: 12px;
 	transform: rotate(45deg);
+}
+
+
+/* LANGUAGE SWITCH */
+
+.switch {
+
+}
+
+.switch ul {
+margin: 0px;
+margin-left: 50px;
+padding: 0px;
+display: inline;
+list-style-type: none;
+}
+
+.switch li {
+	display: inline;
+}
+
+.switch li a {
+	color: black;
+	font-weight: 200;
+}
+
+.switch li:after {
+	content: "|";
+}
+
+.switch li:last-child:after {
+	content: "";
+}
+
+
+.switch ul > li.active a {
+	font-weight: 800;
 }
 
 
@@ -304,9 +342,8 @@ footer a {
 /* ALERT NEWSLETTER */
 
 .alert {
-  background: #white;
-  background-image: url(/content/subscribe_background.jpg);
-
+  background: white;
+  background-image: url(/swisstogo/content/subscribe_background.jpg);
   width: 100%;
   padding: 40px;
   position: relative;
