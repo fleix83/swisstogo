@@ -147,12 +147,12 @@ button a:visited {
 .navbar a {
 	color: black;
 	font-weight: 800;
-	border-bottom: 3px solid transparent;
+	/* border-bottom: 3px solid transparent; */
 	transition: 0.4s;
 }
 
 .navbar h4 a:hover {
-	border-bottom: 3px solid black;
+	/* border-bottom: 3px solid black; */
 	transition: 0.4s;
 }
 
