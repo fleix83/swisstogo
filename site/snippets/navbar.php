@@ -32,7 +32,7 @@
 					</div> -->
 
 					<!-- BUY -->
-					<div class="col-lg-1 col-md-1 col-sm-1">
+					<div class="col-lg-1 col-md-1 col-sm-1 d-flex justify-content-end">
 						<button class="btn btn-hero">
 						<a target="_blank" href="http://swisstoolcase.com/product/swiss-to-go/">Buy</a>
 					</button>

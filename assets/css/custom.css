@@ -133,8 +133,8 @@ button a:visited {
 
 .btn-hero:hover {
   color: #fff;
-  background-color: #0069d9;
-  border-color: #0062cc;
+  background-color: rgba(189, 168, 83, 0.4);
+  border-color: #d4d4d4;
 }
 
 
@@ -203,9 +203,7 @@ z-index: 10;
 
 
 /* LANGUAGE SWITCH */
-
 .switch {
-
 }
 
 .switch ul {
