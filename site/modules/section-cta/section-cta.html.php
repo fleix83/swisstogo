@@ -22,7 +22,9 @@
         <div class="col">
             <h2 class="section-image--h2"><?= $module->titel()->html() ?></h2>
             <p class="section-image--p"><?= $module->text()->html() ?></p>
-            <button class="btn btn-primary"><a target="_blank" href="<?= $module->cta_link()->html() ?>" ><?= $module->cta()->html() ?></a></button>
+            <a target="_blank" href="<?= $module->cta_link()->html() ?>" >
+              <button class="btn btn-primary"><?= $module->cta()->html() ?></button>
+            </a>
         </div>
       </div>
 
