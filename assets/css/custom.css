@@ -534,7 +534,7 @@ section.cta.bild {
 }
 
 .contact:hover {
-	background: lightblue;
+	background: rgba(189, 168, 83, 0.6);
 	transition: 0.3s;
 }
 
