@@ -73,7 +73,7 @@ p a:hover {
 }
 
 p a:visited {
-	color: #67fecb;
+	color: grey;
 	text-decoration: none;
 }
 
