@@ -45,7 +45,7 @@ c::set('languages', array(
 ));
 
 
-include 'sck.config.php';
+
 
 /*
 
