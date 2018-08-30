@@ -1,0 +1,17 @@
+Name: 
+
+----
+
+Price: 
+
+----
+
+Identifier: 
+
+----
+
+Description: 
+
+----
+
+Weight: 

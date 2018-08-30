@@ -1,0 +1,17 @@
+title: Checkout
+pages: false
+files: true
+icon: list
+
+
+fields:
+ title:
+   label: Titel
+   type: text
+ stripe:
+   label: Stripe
+    type: text
+    text: Stripe is active
+ amount:
+   label: Amount
+   type: number

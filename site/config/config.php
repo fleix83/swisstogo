@@ -19,6 +19,7 @@ for more information: http://getkirby.com/license
 c::set('license', 'K2-PRO-98077fd5b0d39e8703a046ff38bf5967');
 c::set('panel.install', false);
 c::set('home','swisstogo');
+c::set('debug',false);
 
 /* LANGUAGES */
 c::set('languages', array(
@@ -42,6 +43,9 @@ c::set('languages', array(
     'url'     => '/ru',
   ),
 ));
+
+
+include 'sck.config.php';
 
 /*
 

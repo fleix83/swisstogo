@@ -6,3 +6,7 @@ password: >
 email: fleix@gmx.ch
 language: de
 role: admin
+history:
+  - checkout
+  - products/testproduct
+  - products

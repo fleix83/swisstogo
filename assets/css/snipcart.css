@@ -1,0 +1,29 @@
+
+#snip-layout-cart-content {
+		background: red;
+		border-radius: 10px;
+}
+
+#snipcart-main-content {
+	background: green;
+	border-radius: 10px;
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 200;
+}
+
+.snip-layout .snip-header {
+	background: green;
+	border-radius: 20px;
+}
+
+table {
+	background: red;
+}
+
+th {
+	background: white;
+}
+
+.snip-layout .snip-footer {
+	border-radius: 0px 0px 10px 10px;
+}

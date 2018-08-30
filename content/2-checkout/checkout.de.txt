@@ -1,0 +1,13 @@
+Title: Stripe Checkout Example
+
+----
+
+Stripe: 
+
+----
+
+Amount: 
+
+----
+
+Description: An example purchase with SCK

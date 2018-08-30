@@ -1,0 +1,21 @@
+Name: Testproduct
+
+----
+
+Price: 99
+
+----
+
+Identifier: test
+
+----
+
+Description: Just a Product
+
+----
+
+Weight: 29
+
+----
+
+Title: testproduct
