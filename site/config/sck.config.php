@@ -17,10 +17,10 @@ By default, test mode is enabled. When you're ready to begin processing live cha
 */
 
 c::set('stripe_test_mode', false);
-c::set('sk_test_gTaUl7xGIJuUxfsmA5yiv0qn', 'sk_test');
-c::set('pk_test_LPAqsGngN9SBuEdHE0EC6cvn', 'pk_test');
-c::set('sk_live_60HTnpL7NQp8UJcof2U4sRY3', 'sk_live');
-c::set('pk_live_yo2OTBXy68WGKIFdEyqpSEs9', 'pk_live');
+c::set('sk_test_', 'sk_test');
+c::set('pk_test_', 'pk_test');
+c::set('sk_live_', 'sk_live');
+c::set('pk_live_', 'pk_live');
 
 /*
 
