@@ -18,7 +18,7 @@
           <?php endif ?>
           <?php echo $page->text()->kirbytext() ?>
           <?php
-          // The following checks to see if the page has `stripe: true` to check whether to load Checkout. If it has, it'll load the `sc-kirby` snippet.
+          /// The following checks to see if the page has `stripe: true` to check whether to load Checkout. If it has, it'll load the `sc-kirby` snippet.
           ?>
         <?php if($page->stripe()->isTrue()): ?>
           <?php snippet('sck') ?>
