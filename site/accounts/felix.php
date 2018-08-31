@@ -2,7 +2,7 @@
 
 username: felix
 password: >
-  $2a$10$J8Lb6wgjKWwuKJPZr8e5TOYGP5mlgLsjulCCf0Cu87HDYgIOEcTCS
+  $2y$10$/F4P9HfOo2NP7MszANUTO.qMoRjf59MwGefehPUcRLRgKzsKAhTWq
 email: fleix@gmx.ch
 language: de
 role: admin
