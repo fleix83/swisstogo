@@ -31,3 +31,6 @@ Icon
 
 # Htaccess File
 .htaccess
+
+# Stripe SCK Plugin Config File
+!/site/config/sck.config.php
