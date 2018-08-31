@@ -2,11 +2,11 @@
   require_once('stripe-php/init.php');
 
   if (c::get('stripe_test_mode')) {
-    $pk = c::get('pk_test');
-    $sk = c::get('sk_test');
+    $pk = c::get('stripe_test_publishable_key');
+    $sk = c::get('stripe_test_secret_key');
   } else {
-    $pk = c::get('pk_live');
-    $sk = c::get('sk_live');
+    $pk = c::get('stripe_live_publishable_key');
+    $sk = c::get('stripe_live_secret_key');
     }
 
   $stripe = array(
