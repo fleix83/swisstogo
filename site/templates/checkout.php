@@ -1,5 +1,4 @@
  <?php snippet('header') ?>
- <?php snippet('sck') ?>
 
 <div class="container">
   <row>
