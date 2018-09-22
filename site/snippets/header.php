@@ -90,14 +90,14 @@
 
 
 <!-- Alert -->
- <?php
+  <?php
 if($page->uid() == 'swisstogo') {
-  snippet('alert');
+  // snippet('alert');
 } ?>
 
 
 <!-- NAVIGATION -->
-<?php snippet('navbar') ?>
+<?php snippet('navbar') ?> 
 <!-- END NAVIGATION -->
 
 

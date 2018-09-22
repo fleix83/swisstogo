@@ -26,4 +26,4 @@ Title: Ambiance Hütten
 
 ----
 
-Class: hero
+Class: 

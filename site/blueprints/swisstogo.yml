@@ -2,6 +2,7 @@
 pages:
   template:
     - module.accordion
+    - module.section-hero
     - module.section-img
     - module.section-img-text
     - module.contact
@@ -38,5 +39,3 @@ fields:
 
     options:
       limit: false
-      
-

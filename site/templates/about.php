@@ -1,55 +1,34 @@
 <?php snippet('header') ?>
 
-  <main class="main" role="main">
+<div class="container about">
+  <div class="row">
+    <div class="col-lg-12 d-flex flex-lg-nowrap flex-md-wrap flex-sm-wrap flex-wrap">
 
-    <div class="wrap">
-      
-      <header>
-        <h1><?= $page->title()->html() ?></h1>
-        <div class="intro text">
-          <?= $page->intro()->kirbytext() ?>
-        </div>
-        <hr />
-      </header>
-      
-      <div class="text">
-        <?= $page->text()->kirbytext() ?>
-      </div>
-      
-    </div>
-    
-    <section class="team wrap wide">
-      
-      <h2>Our Purring Team</h2>
 
-      <ul class="team-list grid gutter-1">
-        <?php foreach($page->children()->visible() as $member): ?>
-          <li class="team-item column">
-            
-            <figure class="team-portrait">
-              <img src="<?= $member->image()->url() ?>" alt="Portrait of <?= $member->title()->html() ?>" />
-            </figure>
-            
-            <div class="team-info">
-              <h3 class="team-name"><?= $member->title()->html() ?></h3>
-              <p class="team-position"><?= $member->position()->html() ?></p>
-              <div class="team-about text">
-                <?= $member->about()->kirbytext() ?>
+
+              <div class="col-lg-7 p-0 mr-2 image">
+                <figure>
+                  <?php
+                  // images() is custom field
+                  $image = $page->image();
+                  // always check if the image exists!
+                  if($image): ?>
+                  <img src="<?= $image->url() ?>"  class="img-fluid" alt="woodandluxury workshop">
+                  <?php endif ?>
+                </figure>
               </div>
-            </div>
-            
-            <div class="team-contact text">
-              <i>Phone:</i><br />
-              <?= kirbytag(['tel' => $member->phone()->html()]) ?><br />
-              <i>Email:</i><br />
-              <a href="mailto:<?= $member->email()->html() ?>"><?= $member->email()->html() ?></a><br />
-            </div>
-          </li>
-        <?php endforeach ?>
-      </ul>
-      
-    </section>
 
-  </main>
+              <div class="col-lg-5 col-md-12 p-0 text pl-4">
+                <h2><?= $page->title()->html() ?></h2>
+                <div class="text wrap">
+                  <?= $page->text()->kirbytext() ?>
+                </div>
+
+              </div>
+
+
+    </div>
+  </div>
+</div>
 
 <?php snippet('footer') ?>

@@ -1,0 +1,41 @@
+Image: korpus_voll_vonoben_hochkant.jpg
+
+----
+
+Imagesize: col-lg-10
+
+----
+
+Justifyimage: justify-content-center
+
+----
+
+Titel: 
+
+----
+
+Text: 
+
+----
+
+Justify: justify-content-center
+
+----
+
+Title: Hero
+
+----
+
+Class: heros
+
+----
+
+Heroclaim1: ##**Swiss To Go** - the (highlight:high-quality picnic set class:highlight) for classy meals on the go. (highlight: Handcrafted in Switzerland class:highlight) out of beautiful (highlight:solid walnut class:highlight). Including a versatile (highlight:Victorinox knife class:highlight) this is your (highlight:perfect gift class:highlight) for stylish picknickers.
+
+----
+
+Heroclaim2: 
+
+----
+
+Heroclaim3: 

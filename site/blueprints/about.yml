@@ -4,21 +4,19 @@ pages:
   template: team
   num: zero
 
-files: false
+files: true
 
-options: 
-  template: false  
-  status: false  
-  
+options:
+  template: false
+  status: false
+
 fields:
+  image:
+    label: Image
+    type: image
   title:
     label: Title
     type: title
-    
-  intro:
-    label: Intro
-    type: textarea
-    
   text:
     label: Text
     type: textarea

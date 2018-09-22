@@ -27,3 +27,15 @@ Title: Hero
 ----
 
 Class: hero
+
+----
+
+Heroclaim1: 
+
+----
+
+Heroclaim2: 
+
+----
+
+Heroclaim3: 

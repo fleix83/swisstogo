@@ -32,11 +32,18 @@
 					</div> -->
 
 					<!-- BUY -->
-					<div class="col-lg-1 col-md-1 col-sm-1 d-flex justify-content-end">
-						<a target="_blank" href="http://swisstoolcase.com/product/swiss-to-go/">
-							<button class="btn btn-hero">Buy</button>
-						</a>
+					<div class="col-lg-3 col-md-4 col-sm-5 col-7 d-flex justify-content-end">
+						<ul>
+							<li><a target="_blank" href="./about">About</a></li>
+						  <li><a target="_blank" href="http://woodandluxury.com/shop/en/home/180-swiss-to-go.html">Shop</a></li>
+						</ul>
 					</div>
+					<!-- STRIPE BUTTON
+					<div class="col-lg-1 col-md-1 col-sm-1 d-flex justify-content-end">
+					<?php if($page->stripe()->isTrue()): ?>
+	          <?php snippet('sck') ?>
+	        <?php endif ?>
+					</div> -->
 
 
 
