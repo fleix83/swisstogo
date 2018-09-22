@@ -21,6 +21,7 @@
   <?php endif ?>
 
   <meta name="author" content="<?= $site->author()->html() ?>">
+  <meta name="generator" content="Kirby 2.5.12" />
 
 
 	<!-- BOOTSTRAP -->
@@ -97,7 +98,7 @@ if($page->uid() == 'swisstogo') {
 
 
 <!-- NAVIGATION -->
-<?php snippet('navbar') ?> 
+<?php snippet('navbar') ?>
 <!-- END NAVIGATION -->
 
 
