@@ -23,7 +23,7 @@
             <h2 class="section-image--h2"><?= $module->titel()->html() ?></h2>
             <p class="section-image--p"><?= $module->text()->html() ?></p>
             <a target="_blank" href="<?= $module->cta_link()->html() ?>" >
-              <button class="btn btn-primary"><?= $module->cta()->html() ?></button>
+              <button class="btn btn-cta"><?= $module->cta()->html() ?></button>
             </a>
         </div>
       </div>

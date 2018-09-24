@@ -14,15 +14,15 @@ Text: With your brand new Swiss To Go
 
 ----
 
-Cta: Buy now
+Cta: Visit our shop
 
 ----
 
-Cta-link: http://swisstoolcase.com/product/swiss-to-go/
+Cta-link: http://woodandluxury.com/shop/en/home/180-swiss-to-go.html
 
 ----
 
-Background: 
+Background: contactbrand
 
 ----
 
