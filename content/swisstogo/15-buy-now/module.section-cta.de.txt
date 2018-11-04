@@ -6,19 +6,19 @@ Imagesize: col-lg-6 col-md-8 col-sm-10 col-xs-6
 
 ----
 
-Titel: Get ready for picnic
+Titel: Auf zum Picknick!
 
 ----
 
-Text: With your brand new Swiss To Go
+Text: Mit Ihrem neuen Swiss To Go!
 
 ----
 
-Cta: Buy now
+Cta: Zum Shop
 
 ----
 
-Cta-link: http://swisstoolcase.com/product/swiss-to-go/
+Cta-link: http://woodandluxury.com/shop/de/home/180-swiss-to-go.html
 
 ----
 

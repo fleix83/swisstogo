@@ -1,0 +1,17 @@
+Background: lightgrey
+
+----
+
+Formtitle: Sie sind Wiederverkäufer und möchten das Swiss To Go anbieten?
+
+----
+
+Title: Contact
+
+----
+
+Formsubtitle: Beantragen Sie hier Ihren Händler-Account
+
+----
+
+Class: 

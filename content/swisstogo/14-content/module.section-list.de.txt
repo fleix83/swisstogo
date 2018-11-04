@@ -14,7 +14,7 @@ Justifyimage: justify-content-center
 
 ----
 
-Titel: The following content is included in the Swiss To Go
+Titel: This comes with your Swiss To Go
 
 ----
 
@@ -95,34 +95,45 @@ Text-links:
 Content-links: 
 
 - 
-  titel_links: TOOTHPICK
-  text_links: ""
+  titel_links: ZAHNSTOCHER
+  text_links: >
+    Biologisch abbaubare Zahnstocher aus
+    Holz
 - 
-  titel_links: HIGH QUALITY CUTLERY
-  text_links: 2 forks, 1 large spoon, 1 small spoon
+  titel_links: QUALITÄTSBESTECK
+  text_links: >
+    2 Gabeln, 1 grosser Löffel, 1 kleiner
+    Löffel
 - 
-  titel_links: POCKET KNIFE VICTORINOX
-  text_links: ""
+  titel_links: 'TASCHENMESSER  VICTORINOX'
+  text_links: >
+    Grosse Klinge, Korkenzieher,
+    Stech-Bohr-Nähahle, Dosenöffner,
+    Schraubendreher 3 mm, Kapselheber,
+    Drahtabisolierer, Schraubendreher 6 mm,
+    Nagelfeile, Nagelreiniger, Ring,
+    Zahnstocher, Pinzette
 - 
-  titel_links: OIL/VINEGAR DRESSING IN A BOTTLE
-  text_links: ""
+  titel_links: ÖL UND ESSIG IM FLÄSSCHEN
+  text_links: >
+    Ausreichend für ca. zwei
+    Salatmahlzeiten
 - 
-  titel_links: MATCHES
+  titel_links: STREICHHÖLZER
+  text_links: Ausreichend für mehrere Feuer
+- 
+  titel_links: TOWEL TABS ZUM REINIGEN
+  text_links: Biologisch abbaubar
+- 
+  titel_links: TEELICHT
+  text_links: Aus nachhaltigem Rapsölwachs
+- 
+  titel_links: SCHWARZER PFEFFER
+  text_links: Aroma hält ca. 3 Jahre
+- 
+  titel_links: SALZ
   text_links: ""
 
 ----
 
 Content-rechts: 
-
-- 
-  titel_rechts: TOWEL TABS AS CLEANING CLOTHS
-  text_rechts: ""
-- 
-  titel_rechts: TEA LIGHT
-  text_rechts: Made of sustainable rapsseed wax
-- 
-  titel_rechts: PEPPER
-  text_rechts: Flavor last 3 years
-- 
-  titel_rechts: SALT
-  text_rechts: ""

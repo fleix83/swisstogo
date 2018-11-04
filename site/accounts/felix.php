@@ -7,6 +7,8 @@ email: fleix@gmx.ch
 language: de
 role: admin
 history:
-  - checkout
-  - products/testproduct
-  - products
+  - swisstogo/hero
+  - swisstogo/content
+  - swisstogo/contact
+  - swisstogo/buy-now
+  - swisstogo/final

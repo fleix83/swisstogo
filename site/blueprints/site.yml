@@ -11,8 +11,18 @@ fields:
   alert:
     label: Alert Newsletter
     type:  text
-
-
+  about:
+    label: About
+    type: text
+  relatedPage:
+    label: About Link
+    type: page
+  shop:
+    label: Shop
+    type: text
+  shop_link:
+    label: Shop Link
+    type: url
   meta:
     label: Meta
     type: headline

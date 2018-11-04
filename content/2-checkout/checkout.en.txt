@@ -6,7 +6,7 @@ Stripe: true
 
 ----
 
-Amount: 1.00
+Amount: 298
 
 ----
 
@@ -15,3 +15,19 @@ Description: An example purchase with SCK
 ----
 
 Text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.
+
+----
+
+Label: Checkout
+
+----
+
+Formtitle: Buy the Swiss To Go
+
+----
+
+Formdescription: Secure payment with Stripe
+
+----
+
+Checkoutimg: swiss-to-go_korpus_rueckseite.png

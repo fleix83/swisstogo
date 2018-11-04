@@ -1,9 +1,13 @@
-Title: About
+Title: Über uns
 
 ----
 
-Text: Wood and Luxury stands for high quality furniture and home accessories made with timeless design. Stefan Senn has been in business in Basel since 1991 under the name WohnGeist. In 2016, he entered the international market, founding Wood and Luxury - bringing fine Swiss handcrafted creations to the world. Wood and Luxury specializes in creating wooden objects from beautiful Swiss fruit wood trees.
+Text: Wood and Luxury steht für hochwertige Möbel und Wohnaccessoires mit zeitlosem Design. Stefan Senn ist seit 1991 in Basel unter dem Namen WohnGeist tätig. 2016 richtete er sich international aus und gründete Wood and Luxury - und brachte feine Schweizer Handwerkskreationen in die Welt. Wood and Luxury ist spezialisiert auf die Herstellung von Holzobjekten aus schönem Schweizer Obstbamholz.
 
 ----
 
 Intro: 
+
+----
+
+Image: swissessential_werkstatt.jpg

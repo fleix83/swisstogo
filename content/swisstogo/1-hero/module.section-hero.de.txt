@@ -1,4 +1,4 @@
-Image: korpus_voll_vonoben.png
+Image: korpus_voll_vonoben_hochkant_variant.png
 
 ----
 
@@ -10,11 +10,11 @@ Justifyimage: justify-content-center
 
 ----
 
-Titel: Swiss To Go
+Titel: 
 
 ----
 
-Text: Swiss To Go is the practical and stylish picnic set for one to two people for a tasteful meal on the go. You will find all important utensils for a pleasant meal in an elegant handmade wooden box with an exactly fitting lid and leather handle. Cutlery, salt and oil for refining as well as other aids that make your picnic in the countryside an experience of high class are well thought out.
+Text: 
 
 ----
 
@@ -26,11 +26,11 @@ Title: Hero
 
 ----
 
-Class: hero
+Class: heros
 
 ----
 
-Heroclaim1: 
+Heroclaim1: ##**Swiss To Go** - das (highlight: hochwertige Picknick-Set class:highlight) für stilvolle Mahlzeiten unterwegs. (highlight:Handgefertigt in der Schweiz class:highlight) aus schönem (highlight:massivem Nussbaumholz class:highlight) ist dies mit dem vielseitigen (highlight:Victorinox Taschenmesser class:highlight) Ihr (highlight:perfektes Geschenk class:highlight) für stilbewusste PicknickerInnen.
 
 ----
 
@@ -39,3 +39,15 @@ Heroclaim2:
 ----
 
 Heroclaim3: 
+
+----
+
+Cta-shop: Jetzt kaufen
+
+----
+
+Cta-more: Mehr
+
+----
+
+Cta-shop-link: http://woodandluxury.com/shop/de/home/180-swiss-to-go.html

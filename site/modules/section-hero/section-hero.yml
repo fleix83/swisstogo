@@ -42,3 +42,12 @@ fields:
       justify-content-start: Links
       justify-content-center: Mitte
       justify-content-end: Rechts
+  cta_shop:
+    label: CtA Shop
+    type: text
+  cta_shop_link:
+    label: CtA Shop Link
+    type: url
+  cta_more:
+    label: CtA More
+    type: text

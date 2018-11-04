@@ -5,12 +5,12 @@
       <div class="col-lg-10 hero-elements d-flex flex-md-nowrap flex-wrap flex-lg-row flex-md-row flex-column-reverse">
         <div class="col-lg-7 claims d-flex justify-content-start flex-wrap p-4">
           <h2><?= $module->heroclaim1()->kirbytext() ?></h2>
-          <div class="col-lg-3 d-flex flex-nowrap p-0">
-            <a target="_blank" href="http://woodandluxury.com/shop/en/home/180-swiss-to-go.html">
-              <button class="btn btn-cta mr-2 mt-2">Shop now</button>
+          <div class="col-lg-5 d-flex flex-nowrap p-0">
+            <a target="_blank" href="<?= $module->cta_shop_link()->url() ?>">
+              <button class="btn btn-cta mr-2 mt-2 p-1"><?= $module->cta_shop() ?></button>
             </a>
             <a id="video" href="#video">
-              <button class="btn btn-cta mt-2 more">See more</button>
+              <button class="btn btn-cta mt-2 more"><?= $module->cta_more() ?></button>
             </a>
           </div>
         </div>

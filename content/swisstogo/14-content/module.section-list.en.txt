@@ -14,7 +14,7 @@ Justifyimage: justify-content-center
 
 ----
 
-Titel: The following content is included in the Swiss To Go
+Titel: This comes with your Swiss To Go
 
 ----
 
@@ -95,34 +95,38 @@ Text-links:
 Content-links: 
 
 - 
-  titel_links: TOOTHPICK
-  text_links: ""
+  titel_links: TOOTHPICKS
+  text_links: Wooden ecological toothpicks
 - 
   titel_links: HIGH QUALITY CUTLERY
   text_links: 2 forks, 1 large spoon, 1 small spoon
 - 
   titel_links: POCKET KNIFE VICTORINOX
-  text_links: ""
+  text_links: >
+    Large blade, corkscrew, reamer, punch
+    and sewing awl, can opener, screwdriver
+    3 mm, bottle opener, wire stripper,
+    screwdriver 6 mm, nail file, nail
+    cleaner, key ring, toothpick, tweezers
 - 
   titel_links: OIL/VINEGAR DRESSING IN A BOTTLE
-  text_links: ""
+  text_links: For one or two salads
 - 
   titel_links: MATCHES
+  text_links: For more then one fire
+- 
+  titel_links: TOWEL TABS AS CLEANING CLOTHS
+  text_links: Biologically degradable
+- 
+  titel_links: TEA LIGHT
+  text_links: Made of sustainable rapsseed wax
+- 
+  titel_links: BLACK PEPPER
+  text_links: Flavor last 3 years
+- 
+  titel_links: SALT
   text_links: ""
 
 ----
 
 Content-rechts: 
-
-- 
-  titel_rechts: TOWEL TABS AS CLEANING CLOTHS
-  text_rechts: ""
-- 
-  titel_rechts: TEA LIGHT
-  text_rechts: Made of sustainable rapsseed wax
-- 
-  titel_rechts: PEPPER
-  text_rechts: Flavor last 3 years
-- 
-  titel_rechts: SALT
-  text_rechts: ""

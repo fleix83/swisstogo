@@ -34,8 +34,8 @@
 					<!-- BUY -->
 					<div class="col-lg-3 col-md-4 col-sm-5 col-7 d-flex justify-content-end">
 						<ul>
-							<li><a target="_blank" href="./about">About</a></li>
-						  <li><a target="_blank" href="http://woodandluxury.com/shop/en/home/180-swiss-to-go.html">Shop</a></li>
+							<li><a target="_blank" href="<?= $site->about_link()->url() ?>"><?= $site->about() ?></a></li>
+						  <li><a target="_blank" href="<?= $site->shop_link()->url() ?>"><?= $site->shop() ?></a></li>
 						</ul>
 					</div>
 					<!-- STRIPE BUTTON

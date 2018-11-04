@@ -22,7 +22,7 @@ Cta-link: http://woodandluxury.com/shop/en/home/180-swiss-to-go.html
 
 ----
 
-Background: contactbrand
+Background: 
 
 ----
 

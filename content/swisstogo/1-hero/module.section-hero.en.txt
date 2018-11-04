@@ -39,3 +39,15 @@ Heroclaim2:
 ----
 
 Heroclaim3: 
+
+----
+
+Cta-shop: Shop now
+
+----
+
+Cta-more: See more
+
+----
+
+Cta-shop-link: http://woodandluxury.com/shop/e/home/180-swiss-to-go.html

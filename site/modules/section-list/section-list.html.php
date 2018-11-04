@@ -18,24 +18,25 @@
     </div>
 
     <!-- CONTENT STRUCTURED FIELD -->
-      <div class="row d-flex justify-content-lg-center justify-content-start flex-wrap">
-                  <div class="col-lg-12 ml-5 mt-5 ">
+      <div class="row d-flex justify-content-lg-start justify-content-start">
+                  <div class="col-lg-12 ml-5 mt-5 p-0 ">
                     <h2 class="section-image--h2 mb-3"><?= $module->titel()->html() ?></h2>
                   </div>
-                  <div class="col-lg-6 col-md-12 col-sm-12 col-12 p-5 mt-2 list-text">
+                  <div class="col-lg-12 col-md-12 col-sm-12 col-12  p-5 mt-2 list-text">
                   <!-- ITEMS LINKS -->
-                  <?php foreach($module->content_links()->toStructure() as $item_links): ?>
-                          <h4><?= $item_links->titel_links()->html() ?></h4>
-                          <p><?= $item_links->text_links()->html() ?></p>
-                  <?php endforeach ?>
+                    <div class="col-lg-12 d-flex flex-wrap p-0 justify-content-around">
+                      <?php foreach($module->content_links()->toStructure() as $item_links): ?>
+                              <div class="col-lg-3 border item d-flex justify-content-center align-self-start flex-wrap">
+                                <div><h4><?= $item_links->titel_links()->html() ?></h4></div>
+                                <div><p><?= $item_links->text_links()->html() ?></p></div>
+                              </div>
+
+                      <?php endforeach ?>
+                    </div>
+
                   </div>
-                  <!-- ITEMS RECHTS -->
-                  <div class="col-lg-6 col-md-12 col-sm-12 col-12 p-5 mt-2 list-text">
-                  <?php foreach($module->content_rechts()->toStructure() as $item_rechts): ?>
-                          <h4><?= $item_rechts->titel_rechts()->html() ?></h4>
-                          <p><?= $item_rechts->text_rechts()->html() ?></p>
-                  <?php endforeach ?>
-                  </div>
+
+
         </div>
 
 

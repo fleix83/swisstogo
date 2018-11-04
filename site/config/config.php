@@ -19,7 +19,10 @@ for more information: http://getkirby.com/license
 c::set('license', 'K2-PRO-98077fd5b0d39e8703a046ff38bf5967');
 c::set('panel.install', false);
 c::set('home','swisstogo');
-c::set('debug',false);
+c::set('debug',true);
+
+/* STRIPE SCK CONFIG FILE */
+include 'sck.config.php';
 
 /* LANGUAGES */
 c::set('languages', array(
@@ -58,5 +61,3 @@ make Kirby work. For more fine-grained configuration
 of the system, please check out http://getkirby.com/docs/advanced/options
 
 */
-
-include 'sck.config.php';

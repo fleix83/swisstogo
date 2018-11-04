@@ -53,11 +53,7 @@ Seo:
 
 ----
 
-About: About
-
-----
-
-Relatedpage: https://swiss-to-go.ch/about
+About: Über uns
 
 ----
 
@@ -65,4 +61,12 @@ Shop: Shop
 
 ----
 
-Shop-link: http://woodandluxury.com/shop/home/180-swiss-to-go.html
+About-link: https://swiss-to-go.ch/de/about
+
+----
+
+Shop-link: http://woodandluxury.com/shop/de/home/180-swiss-to-go.html
+
+----
+
+Relatedpage: https://swiss-to-go.ch/about/de
