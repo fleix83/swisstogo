@@ -14,7 +14,7 @@ fields:
   about:
     label: About
     type: text
-  relatedPage:
+  about_link:
     label: About Link
     type: page
   shop:
