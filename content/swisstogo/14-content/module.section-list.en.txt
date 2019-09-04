@@ -124,7 +124,7 @@ Content-links:
   titel_links: BLACK PEPPER
   text_links: Flavor last 3 years
 - 
-  titel_links: SALT
+  titel_links: SALTS
   text_links: ""
 
 ----
