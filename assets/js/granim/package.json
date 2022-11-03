@@ -29,7 +29,7 @@
   "devDependencies": {
     "browserify": "^13.0.1",
     "codecov": "^1.0.1",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-copy": "0.0.2",
     "gulp-header": "^1.8.2",
     "gulp-if": "^2.0.1",
